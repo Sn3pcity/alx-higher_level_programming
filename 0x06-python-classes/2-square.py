@@ -3,7 +3,7 @@
 
 """
 Created on Wed 25th Jan 05:54 2023
-@author: Sn3p
+By@ Sn3p
 """
 
 class Square:
